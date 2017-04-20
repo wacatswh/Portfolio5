@@ -1,1 +1,1 @@
-this is the re-edited line 1 on the "master" branch 
+this will be the entirely new line after solving the conflict
